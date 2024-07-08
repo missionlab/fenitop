@@ -66,7 +66,7 @@ To install the coding environment in one shot, we recommend to use [Docker](http
 ### Installation of FEniTop
 To install FEniTop, simply execute the command in your terminal (such as the terminal of Visual Studio Code).
 ```
-git clone https://github.com/jiayingqi/FEniTop
+git clone https://github.com/fenitop/fenitop
 ```
 
 ### How to run FEniTop scripts
