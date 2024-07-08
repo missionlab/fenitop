@@ -1,0 +1,18 @@
+{
+    "flake8.args": [
+        "--max-line-length=200",
+        "--ignore=E226, E302, E305, E306, E402, E741, W503",
+        // "--verbose",
+        // E226: Missing whitespace around arithmetic operator
+        // E302: Expected 2 blank lines
+        // E305: Expected 2 blank lines after class or function definition
+        // E306: Expected 1 blank line before a nested definition
+        // E402: Module level import not at top of file
+        // E741: Ambiguous variable name 'I'   
+        // W503: Line break before binary operator 
+    ],
+    "editor.rulers": [79],
+    "workbench.colorCustomizations": {
+        // "editorRuler.foreground": "#ff4081"
+    }
+}

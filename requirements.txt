@@ -1,0 +1,9 @@
+# This file lists required Python packages in addition to the FEniCSx package.
+# To install the required packages, run the command:
+# pip3 install -r requirements.txt
+
+pyvista
+psutil
+
+# To install xvfb, run the command:
+# apt-get -qq update && apt-get -y install libgl1-mesa-dev xvfb
