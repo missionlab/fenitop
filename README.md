@@ -92,5 +92,19 @@ To run FEniTop scripts, simply execute the following commands in your terminal.
 - NSF Award CMMI-2245251
 
 ### Citation
-- Yingqi Jia, Chao Wang, Xiaojia Shelly Zhang, "FEniTop: A simple FEniCSx implementation
-for 2D and 3D topology optimization supporting parallel computing".
+- Jia, Y., Wang, C. & Zhang, X.S. FEniTop: a simple FEniCSx implementation for 2D and 3D topology optimization supporting parallel computing. Struct Multidisc Optim 67, 140 (2024). https://doi.org/10.1007/s00158-024-03818-7
+
+```
+@article{jia_fenitop_2024,
+  title = {{FEniTop}: A Simple {FEniCSx} Implementation for {2D} and {3D} Topology Optimization Supporting Parallel Computing},
+  shorttitle = {FEniTop},
+  author = {Jia, Yingqi and Wang, Chao and Zhang, Xiaojia Shelly},
+  year = {2024},
+  month = aug,
+  journal = {Structural and Multidisciplinary Optimization},
+  volume = {67},
+  number = {140},
+  issn = {1615-1488},
+  doi = {10.1007/s00158-024-03818-7},
+}
+```
